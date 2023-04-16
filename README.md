@@ -1,7 +1,5 @@
 
-**Materia Aplicaciones Híbridas**
-Docente: **Brian Lara**
-Desarrollo Web **Da Vinci**
+**Materia Aplicaciones Híbridas**, Docente: **Brian Lara**, Desarrollo Web **Da Vinci**
 
 # Actividad - Mini Sistema
 
